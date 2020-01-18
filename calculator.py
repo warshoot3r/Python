@@ -1,5 +1,5 @@
 
-#ver 2
+#ver 3
 print("number calculator")
 
 number_user = int(input("Number 1"))
